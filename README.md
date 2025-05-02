@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## ⚡ Sosmed Download Simulator
+## ⚡ Social Media Download Simulator
 
 This project is a simulation of a **Social Media Downloader**, built using Laravel.  
 Users can "simulate" downloading content from popular social media platforms (e.g. YouTube, TikTok, Instagram) without actually doing it — useful for educational, UI/UX testing, or system flow demonstrations.
